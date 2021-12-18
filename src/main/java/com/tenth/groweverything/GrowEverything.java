@@ -1,6 +1,8 @@
 package com.tenth.groweverything;
 
 import com.tenth.groweverything.setup.Register;
+import net.minecraft.client.renderer.ItemBlockRenderTypes;
+import net.minecraft.client.renderer.RenderType;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -26,7 +28,7 @@ public class GrowEverything {
     }
 
     private void setupClient(final FMLClientSetupEvent event) {
-        // Add render types here!!!
+        ItemBlockRenderTypes.setRenderLayer(Register.APPLE_BUSH.get(), RenderType.cutout());
     }
 
     private void setup(final FMLCommonSetupEvent event) {
