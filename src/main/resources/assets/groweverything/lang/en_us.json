@@ -1,5 +1,21 @@
 {
-  "itemGroup.groweverything": "Grow Everything",
+  "itemGroup.groweverythingitems": "Grow Everything Items",
+  "itemGroup.groweverythingblocks": "Grow Everything Blocks",
+
+  "item.groweverything.golden_chicken": "Golden Chicken",
+  "item.groweverything.golden_cod": "Golden Cod",
+  "item.groweverything.golden_mutton": "Golden Mutton",
+  "item.groweverything.golden_porkchop": "Golden Porkchop",
+  "item.groweverything.golden_rabbit": "Golden Rabbit",
+  "item.groweverything.golden_salmon": "Golden Salmon",
+  "item.groweverything.golden_steak": "Golden Steak",
+
+  "item.groweverything.golden_melon": "Golden Melon Slice",
+  "item.groweverything.golden_glow_berries": "Golden Glow Berries",
+  "item.groweverything.golden_baked_potato": "Golden Baked Potato",
+  "item.groweverything.golden_sweet_berries": "Golden Sweet Berries",
+  "item.groweverything.golden_beetroot": "Golden Beetroot",
+  "item.groweverything.golden_pumpkin_pie": "Golden Pumpkin Pie",
 
   "block.groweverything.apple_bush": "Apple Bush"
 }
